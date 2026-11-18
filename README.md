@@ -1,4 +1,4 @@
-# Actofit Sync by Subhadip Ray
+# Actofit Sync
 
 **Unofficial companion app for Actofit Ultra Max**
 
@@ -30,10 +30,14 @@ It forces a login that always fails, and even after bypassing login there is no 
 ### Screenshots of the app
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/raysubhadip94/ActofitSync/729c13ec3455740d77fdf5f6bf69c7ab983738b0/Screenshots/Screenshot_20261118_220739.jpg" width="200" alt="Screenshot 1">
-  <img src="https://raw.githubusercontent.com/raysubhadip94/ActofitSync/729c13ec3455740d77fdf5f6bf69c7ab983738b0/Screenshots/Screenshot_20261118_220748.jpg" width="200" alt="Screenshot 2">
-  <img src="https://raw.githubusercontent.com/raysubhadip94/ActofitSync/729c13ec3455740d77fdf5f6bf69c7ab983738b0/Screenshots/Screenshot_20261118_220758.jpg" width="200" alt="Screenshot 3">
-  <img src="https://raw.githubusercontent.com/raysubhadip94/ActofitSync/729c13ec3455740d77fdf5f6bf69c7ab983738b0/Screenshots/Screenshot_20261118_220811.jpg" width="200" alt="Screenshot 4">
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/raysubhadip94/ActofitSync/729c13ec3455740d77fdf5f6bf69c7ab983738b0/Screenshots/Screenshot_20261118_220739.jpg" width="200" alt="Screenshot 1"></td>
+      <td><img src="https://raw.githubusercontent.com/raysubhadip94/ActofitSync/729c13ec3455740d77fdf5f6bf69c7ab983738b0/Screenshots/Screenshot_20261118_220748.jpg" width="200" alt="Screenshot 2"></td>
+      <td><img src="https://raw.githubusercontent.com/raysubhadip94/ActofitSync/729c13ec3455740d77fdf5f6bf69c7ab983738b0/Screenshots/Screenshot_20261118_220758.jpg" width="200" alt="Screenshot 3"></td>
+      <td><img src="https://raw.githubusercontent.com/raysubhadip94/ActofitSync/729c13ec3455740d77fdf5f6bf69c7ab983738b0/Screenshots/Screenshot_20261118_220811.jpg" width="200" alt="Screenshot 4"></td>
+    </tr>
+  </table>
 </div>
 
 ---
