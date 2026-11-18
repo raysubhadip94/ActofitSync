@@ -11,7 +11,7 @@
 The official Actofit app no longer works.  
 It forces a login that always fails, and even after bypassing login there is no way to add the watch.
 
-**Actofit Sync** was built from scratch so that Actofit Ultra Max users can finally connect their watch without any account or login.
+**Actofit Sync** was built from scratch so that Actofit Ultra Max users can finally connect their watch without any account or login or even offline.
 
 ---
 
