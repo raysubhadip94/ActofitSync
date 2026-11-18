@@ -3,7 +3,7 @@
 **Unofficial companion app for Actofit Ultra Max**
 
 [![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
-[![APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://github.com/YOUR_USERNAME/Actofit-Sync/releases/latest)
+[![APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://github.com/raysubhadip94/ActofitSync/releases/latest)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cracking_school_2)
 
 <br>
@@ -29,7 +29,7 @@ It forces a login that always fails, and even after bypassing login there is no 
 
 ### Download
 
-**[Download Actofit Sync_1.0.0_initial_release.apk](https://github.com/YOUR_USERNAME/Actofit-Sync/releases/latest)**
+**[Download Actofit Sync_1.0.0_initial_release.apk](https://github.com/raysubhadip94/ActofitSync/releases/latest)**
 
 > After installing, allow **Bluetooth** and **Location** permissions.
 
