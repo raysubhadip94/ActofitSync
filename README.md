@@ -37,7 +37,7 @@ It forces a login that always fails, and even after bypassing login there is no 
       <td><img src="https://github.com/raysubhadip94/ActofitSync/blob/0a0df1b4cf2d9b841aad748c7bd09b6b5e3f4950/v1.0.1/screenshots/Screenshot_20261121_111136.jpg" width="200" alt="Screenshot 2"></td>
       <td><img src="https://github.com/raysubhadip94/ActofitSync/blob/09008cc4cad74df3245b4d04a38851a37230446b/v1.0.1/screenshots/Screenshot_20261121_110026.jpg" width="200" alt="Screenshot 3"></td>
       <td><img src="https://github.com/raysubhadip94/ActofitSync/blob/fcff884f4f9ab8adccc69a9cc9c1568c08553f05/v1.0.1/screenshots/Screenshot_20261121_110042.jpg" width="200" alt="Screenshot 4"></td>
-       <td><img src="https://github.com/raysubhadip94/ActofitSync/blob/fcff884f4f9ab8adccc69a9cc9c1568c08553f05/v1.0.1/screenshots/Screenshot_20261121_110042.jpg" width="200" alt="Screenshot 5"></td>
+       <td><img src="https://github.com/raysubhadip94/ActofitSync/blob/d9ab6870b0b596af2803c3597ce69aa0b64e1e0a/v1.0.1/screenshots/Screenshot_20261121_110045.jpg" width="200" alt="Screenshot 5"></td>
     </tr>
   </table>
 </div>
