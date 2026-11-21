@@ -17,13 +17,14 @@ It forces a login that always fails, and even after bypassing login there is no 
 
 ### Features
 
-| Category              | Features                                      |
-|-----------------------|-----------------------------------------------|
-| **Health**            | Heart Rate • SpO₂ • Sleep • Steps • Calories  |
-| **Watch Controls**    | Find Watch • Music Control • Camera + Gallery |
-| **Sync**              | Time Sync • GPS Sync • Weather Sync           |
-| **Tracking**          | Daily Goal • History Page • 30-Day Charts     |
-| **Extra**             | Battery Status • PDF Export                   |
+| Category | Features |
+| :--- | :--- |
+| **Health & Tracking** | Heart Rate • SpO₂ • BP • Sleep • Steps • Calories • Daily Goal • 30-Day Charts • History Page |
+| **Smart Controls** | Find Phone • Music Remote • Camera + Gallery • Call Alerts |
+| **Smart Reminders** | Walk Reminder • Goal Alert • Drinking Reminder |
+| **Sync & Automation** | Auto Sync • Auto GPS & Weather • Auto Measure • Watch Time Format |
+| **Customization** | App Notifications (custom apps) • AMOLED Theme |
+| **Extra** | Battery Status • PDF Export |
 
 ---
 
